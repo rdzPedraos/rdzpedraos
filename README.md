@@ -15,7 +15,7 @@
 🌐 I'm interested in **Web 3.0**. <br/>
 🚀 I contribute to **Open Source** projects. <br/>
 📚 I share small pills of knowledge in my [LinkedIn](https://www.linkedin.com/in/rdzpedraos). <br/>
-💻 Visit my [portfolio](https://rdzdev.com) to learn more about me. <br/>
+💻 Visit my [portfolio](https://rdzdev.com) to learn more about me.
 
 <img style="display:block;" src="https://streak-stats.demolab.com?user=rdzpedraos&theme=transparent" alt="GitHub Streak" />
 <!-- Introduction -->
