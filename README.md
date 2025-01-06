@@ -22,7 +22,7 @@
 
 ## Projects I am currently working on
 
-<img width="55%" align="right" alt="stock image" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
+<img width="40%" align="right" alt="stock image" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
 
 <a href="https://github.com/rdzPedraos/Eventix">
     <img style="display:block;" src="https://github-readme-stats.vercel.app/api/pin/?username=rdzpedraos&repo=eventix" alt="Eventix Repository" />
