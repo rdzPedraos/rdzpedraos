@@ -22,7 +22,7 @@
 
 ## Contact me
 
-[![portfolio](https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png)](#) [![linkedin](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/rdzpedraos) [![email](https://img.icons8.com/doodle/38/000000/gmail-new.png)](mailto:rdzpedraos@gmail.com)
+[![portfolio](https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png)](https://rdzdev.com) [![linkedin](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/rdzpedraos) [![email](https://img.icons8.com/doodle/38/000000/gmail-new.png)](mailto:rdzpedraos@gmail.com)
 
 <!--
 <img  align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/>
