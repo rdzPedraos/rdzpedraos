@@ -20,14 +20,6 @@
 <img style="display:block;" src="https://streak-stats.demolab.com?user=rdzpedraos&theme=transparent" alt="GitHub Streak" />
 <!-- Introduction -->
 
-## Projects I am currently working on
-
-<img width="40%" align="right" alt="stock image" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/full/workbench.svg"/>
-
-
-[![Eventix Repository](https://github-readme-stats.vercel.app/api/pin/?username=rdzpedraos&repo=eventix)](https://github.com/rdzPedraos/Eventix)
-[![Nitrogen Prediction Repository](https://github-readme-stats.vercel.app/api/pin/?username=rdzpedraos&repo=NitrogenPrediction-front)](https://github.com/rdzPedraos/NitrogenPrediction-front)
-[![Buscaminas Repository](https://github-readme-stats.vercel.app/api/pin/?username=rdzpedraos&repo=buscaminas)](https://github.com/rdzPedraos/buscaminas)
 ## Contact me
 
 [![portfolio](https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png)](#) [![linkedin](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/rdzpedraos) [![email](https://img.icons8.com/doodle/38/000000/gmail-new.png)](mailto:rdzpedraos@gmail.com)
