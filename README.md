@@ -12,17 +12,13 @@
 ✨ Lifelong student :) <br/>
 🎵 In my free time, I'm a drummer and a music lover. <br/>
 💪 I enjoy the gym as part of my lifestyle. <br/>
-🌐 I'm interested in **Web 3.0**. <br/>
+🌐 I'm interested in **AI and Web 3.0**. <br/>
 🚀 I contribute to **Open Source** projects. <br/>
 📚 I share small pills of knowledge in my [LinkedIn](https://www.linkedin.com/in/rdzpedraos). <br/>
-💻 Visit my [portfolio](https://rdzdev.com) to learn more about me.
+💻 Visit my [portfolio](https://rdzdev.com) to know me better.
 
 <img style="display:block;" src="https://streak-stats.demolab.com?user=rdzpedraos&theme=transparent" alt="GitHub Streak" />
 <!-- Introduction -->
-
-## Contact me
-
-[![portfolio](https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png)](https://rdzdev.com) [![linkedin](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/rdzpedraos) [![email](https://img.icons8.com/doodle/38/000000/gmail-new.png)](mailto:rdzpedraos@gmail.com)
 
 <!--
 <img  align="right" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png"/>
