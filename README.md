@@ -12,6 +12,10 @@
 <!--Header Name-->
 
 <!-- Introduction -->
+✨ Lifelong student :) <br/>
+💪 I enjoy the gym as part of my lifestyle. <br/>
+🌐 I'm interested in **AI and Web 3.0**. <br/>
+
 <img align="left" style="display:block;" src="https://streak-stats.demolab.com?user=rdzpedraos&theme=transparent" alt="GitHub Streak" />
 
 <div align="right">
@@ -20,10 +24,6 @@
     <img src="https://skillicons.dev/icons?i=webflow,tailwindcss,sass,bootstrap,mysql,mongodb&theme=light"/> <br/>
     <img src="https://skillicons.dev/icons?i=git,aws,terraform,docker,kubernetes&theme=light"/> <br/>
 </div>
-
-✨ Lifelong student :) <br/>
-💪 I enjoy the gym as part of my lifestyle. <br/>
-🌐 I'm interested in **AI and Web 3.0**. <br/>
 <!-- Introduction -->
 
 <!--
